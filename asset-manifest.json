@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/funFactsAboutSneakers/static/css/main.667220ea.css",
+    "main.js": "/funFactsAboutSneakers/static/js/main.c71b60ff.js",
+    "static/js/787.0daba8d2.chunk.js": "/funFactsAboutSneakers/static/js/787.0daba8d2.chunk.js",
+    "static/media/ChuckTaylors.webp": "/funFactsAboutSneakers/static/media/ChuckTaylors.5d53136ea9d2a490f2c3.webp",
+    "static/media/NikeAirMoreUptempoSharpie.jpeg": "/funFactsAboutSneakers/static/media/NikeAirMoreUptempoSharpie.679510fe74d072936d84.jpeg",
+    "static/media/FoamsGloNDark.jpeg": "/funFactsAboutSneakers/static/media/FoamsGloNDark.0da4e4304baf4bb948fb.jpeg",
+    "static/media/AirJordansXIBlackRed.webp": "/funFactsAboutSneakers/static/media/AirJordansXIBlackRed.469eeb16c1e05a7fbcfd.webp",
+    "index.html": "/funFactsAboutSneakers/index.html",
+    "main.667220ea.css.map": "/funFactsAboutSneakers/static/css/main.667220ea.css.map",
+    "main.c71b60ff.js.map": "/funFactsAboutSneakers/static/js/main.c71b60ff.js.map",
+    "787.0daba8d2.chunk.js.map": "/funFactsAboutSneakers/static/js/787.0daba8d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.667220ea.css",
+    "static/js/main.c71b60ff.js"
+  ]
+}
